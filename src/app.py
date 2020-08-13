@@ -53,6 +53,12 @@ def delete(id):
     return jsonify(bm.to_json())
 
 
+@app.route('/status', methods=['GET'])
+def status():
+    msg = {'status': 'Ok!'}
+    return msg
+
+
 if __name__ == "__main__":
     db.init_app(app)
     db.app = app
