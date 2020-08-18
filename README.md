@@ -32,10 +32,11 @@ O desafio consiste em uma API que foi desenvolvida, porém ela precisa estar rod
 **Pontos de avaliação**:
 
 - Colocar a aplicação em container;
-- Rodar a aplicação em um orquestrador de containers.
+- Rodar a aplicação em um orquestrador de containers;
 - A infraesturutura tem que estar em código;
-- Deverá estar implementado em pipeline de CI/CD.
-- A API tem pontos de melhoria, se você identificar algo pode implementar a vontade;
+- Deverá estar implementado em pipeline de CI/CD;
+- Implementar testes de Infraestrutura;
+- A API tem pontos de melhoria, se você identificar algo pode implementar a vontade.
 
 **Importante**
 
