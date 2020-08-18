@@ -27,13 +27,20 @@ O desafio consiste em uma API que foi desenvolvida, porém ela precisa estar rod
 
 **Obrigatório**:
 
-- Aplicação deverá rodar em Containers;
+- Realizar o deploy da aplicação em Produção e a mesma estar funcional em um DNS público.
+
+**Pontos de avaliação**:
+
+- Colocar a aplicação em container;
+- Rodar a aplicação em um orquestrador de containers.
 - A infraesturutura tem que estar em código;
 - Deverá estar implementado em pipeline de CI/CD.
-
-**Pontos Extra**:
-
 - A API tem pontos de melhoria, se você identificar algo pode implementar a vontade;
-- Rodar no Kubernetes (GKE ou não.)
 
-Faça o clone deste projeto e realiza o push em um repositório no [Gitlab](https://about.gitlab.com/) ou [Bitbucket](https://bitbucket.org/). E nos dê acesso para que o código seja verificado. 
+**Importante**
+
+Não é necessário implementar todos os pontos listados acima, afinal de contas o objetivo é colocar a API no ar, porém eles serão considerados na sua avaliação.
+
+**Entrega**
+
+Faça o clone deste projeto e realiza o push em um repositório no [Gitlab](https://about.gitlab.com/) ou [Bitbucket](https://bitbucket.org/). E nos dê acesso para que o código seja verificado e também deverá constar no README todos os procedimentos realizados por você para o teste.
