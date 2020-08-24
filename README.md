@@ -33,7 +33,7 @@ O desafio consiste em uma API que foi desenvolvida, porém ela precisa estar rod
 
 - Colocar a aplicação em container;
 - Rodar a aplicação em um orquestrador de containers;
-- A infraesturutura tem que estar em código;
+- A infraestrutura tem que estar em código;
 - Deverá estar implementado em pipeline de CI/CD;
 - Implementar testes de Infraestrutura;
 - A API tem pontos de melhoria, se você identificar algo pode implementar a vontade.
@@ -44,4 +44,4 @@ Não é necessário implementar todos os pontos listados acima, afinal de contas
 
 **Entrega**
 
-Faça o clone deste projeto e realiza o push em um repositório no [Gitlab](https://about.gitlab.com/) ou [Bitbucket](https://bitbucket.org/). E nos dê acesso para que o código seja verificado e também deverá constar no README todos os procedimentos realizados por você para o teste.
+Faça o clone deste projeto e realize o push em um repositório no [Gitlab](https://about.gitlab.com/) ou [Bitbucket](https://bitbucket.org/). E nos dê acesso para que o código seja verificado e também deverá constar no README todos os procedimentos realizados por você para o teste.
