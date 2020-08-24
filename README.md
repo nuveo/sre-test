@@ -2,7 +2,7 @@
 
 ## Escalabilidade da aplicação.
 
-O desafio consiste em uma API que foi desenvolvida, porém ela precisa estar rodando no Google Cloud Platform (Não se preocupe, daremos acesso a um projeto para você) e a mesma API pode ser melhorada, caso você identifique pontos para tal.
+O desafio consiste em uma API que foi desenvolvida, porém ela precisa estar rodando no [Google Cloud Platform](https://cloud.google.com) e a mesma API pode ser melhorada, caso você identifique pontos para tal.
 
 ## Campos da API
 
@@ -25,17 +25,18 @@ O desafio consiste em uma API que foi desenvolvida, porém ela precisa estar rod
 
 ## Instruções de entrega
 
-**Obrigatório**:
+**Objetivo**
 
-- Realizar o deploy da aplicação em Produção e a mesma estar funcional em um DNS público.
+- Queremos apenas executar seu código na nossa infraestrutura no [Google Cloud Platform](https://cloud.google.com) e ver sua aplicação funcionar.
 
 **Pontos de avaliação**:
 
-- Colocar a aplicação em container;
-- Rodar a aplicação em um orquestrador de containers;
-- A infraestrutura tem que estar em código;
-- Deverá estar implementado em pipeline de CI/CD;
-- Implementar testes de Infraestrutura;
+- "Containerizar" a API (Sugestão: [Docker](https://docs.docker.com/));
+- Rodar a aplicação em um orquestrador de containers (Sugestão: [Kubernetes](https://kubernetes.io/pt/docs/home/) e [Google Kubernetes Engine](https://cloud.google.com/kubernetes-engine));
+- A infraestrutura **tem** que estar em código (Sugestão: [Terraform](https://www.terraform.io/docs/providers/google/));
+
+**Pontos extras**
+
 - A API tem pontos de melhoria, se você identificar algo pode implementar a vontade.
 
 **Importante**
@@ -44,4 +45,4 @@ Não é necessário implementar todos os pontos listados acima, afinal de contas
 
 **Entrega**
 
-Faça o clone deste projeto e realize o push em um repositório no [Gitlab](https://about.gitlab.com/) ou [Bitbucket](https://bitbucket.org/). E nos dê acesso para que o código seja verificado e também deverá constar no README todos os procedimentos realizados por você para o teste.
+Faça o clone deste projeto e realize o push em um repositório privado no [Gitlab](https://about.gitlab.com/), [Bitbucket](https://bitbucket.org/) ou [Github](https://github.com/), e nos dê acesso para que o código seja verificado e também deverá constar no README todos os procedimentos realizados por você para o teste.
