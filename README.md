@@ -34,7 +34,7 @@ O desafio consiste em uma API que foi desenvolvida, porém ela precisa estar rod
 - "Containerizar" a API (Sugestão: [Docker](https://docs.docker.com/));
 - Rodar a aplicação em um orquestrador de containers (Sugestão: [Kubernetes](https://kubernetes.io/pt/docs/home/) e [Google Kubernetes Engine](https://cloud.google.com/kubernetes-engine));
 - A infraestrutura deve estar em código (Sugestão: [Terraform](https://www.terraform.io/docs/providers/google/));
-- O deploy da aplicação/infra deverá estar em um pipeline de CI/CD (Sugestões: [Jenkins](https://www.jenkins.io/) e [TravisCI](https://travis-ci.org/))
+- O deploy da aplicação/infra deverá estar em um pipeline de CI/CD (Sugestões: [Jenkins](https://www.jenkins.io/), [TravisCI](https://travis-ci.org/), [Spinnaker](https://spinnaker.io/))
 
 **Pontos extras**
 
