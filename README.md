@@ -33,7 +33,8 @@ O desafio consiste em uma API que foi desenvolvida, porém ela precisa estar rod
 
 - "Containerizar" a API (Sugestão: [Docker](https://docs.docker.com/));
 - Rodar a aplicação em um orquestrador de containers (Sugestão: [Kubernetes](https://kubernetes.io/pt/docs/home/) e [Google Kubernetes Engine](https://cloud.google.com/kubernetes-engine));
-- A infraestrutura **tem** que estar em código (Sugestão: [Terraform](https://www.terraform.io/docs/providers/google/));
+- A infraestrutura deve que estar em código (Sugestão: [Terraform](https://www.terraform.io/docs/providers/google/));
+- O deploy da aplicação/infra deverá estar em um pipeline de CI/CD (Sugestões: [Jenkins](https://www.jenkins.io/) e [TravisCI](https://travis-ci.org/))
 
 **Pontos extras**
 
@@ -46,3 +47,5 @@ Não é necessário implementar todos os pontos listados acima, afinal de contas
 **Entrega**
 
 Faça o clone deste projeto e realize o push em um repositório privado no [Gitlab](https://about.gitlab.com/), [Bitbucket](https://bitbucket.org/) ou [Github](https://github.com/), e nos dê acesso para que o código seja verificado e também deverá constar no README todos os procedimentos realizados por você para o teste.
+
+Em caso de dúvidas, não hesite em entrar em contato conosco! :)
