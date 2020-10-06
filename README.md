@@ -42,7 +42,11 @@ O desafio consiste em uma API que foi desenvolvida, porém ela precisa estar rod
 
 **Importante**
 
-Não é necessário implementar todos os pontos listados acima, afinal de contas o objetivo é colocar a API no ar, porém eles serão considerados na sua avaliação.
+Os pontos de avalição são itens **obrigatórios** para entrega. Os aspectos avaliados em seu teste serão:
+
+- Qualidade do código de infra;
+- Qualidade do descritivo para o seu teste;
+- O custo envolvido na infra;
 
 **Entrega**
 
