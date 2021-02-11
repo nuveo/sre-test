@@ -27,17 +27,20 @@ O desafio consiste em uma API que foi desenvolvida, porém ela precisa estar rod
 
 **Objetivo**
 
-- Queremos apenas executar seu código na nossa infraestrutura no [Google Cloud Platform](https://cloud.google.com) e ver sua aplicação funcionar.
+- Queremos apenas executar seu código na nossa infraestrutura na [Google Cloud Platform](https://cloud.google.com) e ver sua aplicação funcionar.
 
 **Pontos de avaliação**:
 
 - "Containerizar" a API (Sugestão: [Docker](https://docs.docker.com/));
 - Rodar a aplicação em um orquestrador de containers (Sugestão: [Kubernetes](https://kubernetes.io/pt/docs/home/) e [Google Kubernetes Engine](https://cloud.google.com/kubernetes-engine));
-- A infraestrutura deve estar em código (Sugestão: [Terraform](https://www.terraform.io/docs/providers/google/));
-- O deploy da aplicação/infra deverá estar em um pipeline de CI/CD (Sugestões: [Jenkins](https://www.jenkins.io/), [TravisCI](https://travis-ci.org/), [Spinnaker](https://spinnaker.io/))
+- A infraestrutura (Redes e Servidores) deve estar em código (Sugestão: [Terraform](https://www.terraform.io/docs/providers/google/));
 
 **Pontos extras**
 
+- O deploy da aplicação/infra deverá estar em um pipeline de CI/CD (Sugestões: [Jenkins](https://www.jenkins.io/), [TravisCI](https://travis-ci.org/), [Spinnaker](https://spinnaker.io/));
+- Implementação dos charts do Kubernetes com [Helm](https://helm.sh/);
+- Implementação de testes de Infraestrutura (Sugestões: [Molecule](molecule.readthedocs.io), [Terratest](https://terratest.gruntwork.io/));
+- Implementação de um serviço de Observability (Sugestões: [Prometheus](https://www.prometheus.io/docs/introduction/overview/), [Grafana](https://grafana.com/docs/));
 - A API tem pontos de melhoria, se você identificar algo pode implementar a vontade.
 
 **Importante**
