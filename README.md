@@ -1,9 +1,5 @@
 # Teste para SRE
 
-## Escalabilidade da aplicação.
-
-O desafio consiste em uma API que foi desenvolvida, porém ela precisa estar rodando no [Google Cloud Platform](https://cloud.google.com) e a mesma API pode ser melhorada, caso você identifique pontos para tal.
-
 ## Campos da API
 
 |Name|Type|Description|
@@ -23,33 +19,13 @@ O desafio consiste em uma API que foi desenvolvida, porém ela precisa estar rod
 |DELETE|/delete/{id}|delete a specific payment|
 |GET|/status|healthcheck of API|
 
-## Instruções de entrega
+## Entrega
 
-**Objetivo**
+Faça o clone deste projeto e realize o push em um repositório privado no [Gitlab](https://about.gitlab.com/), [Bitbucket](https://bitbucket.org/) ou [Github](https://github.com/), e nos dê acesso para que o código seja verificado e também deverá constar no README todos os procedimentos realizados por você para o teste. Favor dar acesso aos seguintes emails:
 
-- Queremos apenas executar seu código na nossa infraestrutura no [Google Cloud Platform](https://cloud.google.com) e ver sua aplicação funcionar.
+- pery.lemke@nuveo.ai
+- matheus.almeida@nuveo.ai
 
-**Pontos de avaliação**:
-
-- "Containerizar" a API (Sugestão: [Docker](https://docs.docker.com/));
-- Rodar a aplicação em um orquestrador de containers (Sugestão: [Kubernetes](https://kubernetes.io/pt/docs/home/) e [Google Kubernetes Engine](https://cloud.google.com/kubernetes-engine));
-- A infraestrutura deve estar em código (Sugestão: [Terraform](https://www.terraform.io/docs/providers/google/));
-- O deploy da aplicação/infra deverá estar em um pipeline de CI/CD (Sugestões: [Jenkins](https://www.jenkins.io/), [TravisCI](https://travis-ci.org/), [Spinnaker](https://spinnaker.io/))
-
-**Pontos extras**
-
-- A API tem pontos de melhoria, se você identificar algo pode implementar a vontade.
-
-**Importante**
-
-Os pontos de avalição são itens **obrigatórios** para entrega. Os aspectos avaliados em seu teste serão:
-
-- Qualidade do código de infra;
-- Qualidade do descritivo para o seu teste;
-- O custo envolvido na infra;
-
-**Entrega**
-
-Faça o clone deste projeto e realize o push em um repositório privado no [Gitlab](https://about.gitlab.com/), [Bitbucket](https://bitbucket.org/) ou [Github](https://github.com/), e nos dê acesso para que o código seja verificado e também deverá constar no README todos os procedimentos realizados por você para o teste.
+Um ponto importante, você pode não conhecer todas as ferramentas, ou não fazer todos os passos, somente justifique as escolhas para nossa avaliação.
 
 Em caso de dúvidas, não hesite em entrar em contato conosco! :)
