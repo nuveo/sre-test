@@ -29,6 +29,6 @@ Os acessos ao repositório podem ser direcionado para os seguintes emails:
 - francilio.araujo@nuveo.ai
 - gilson.oliveira@nuveo.ai
 
-Um ponto importante: você pode não conhecer todas as ferramentas, ou não fazer todos os passos, porém é muito importante que justifique as suas escolhas e raciocínios para ajudar na nossa avaliação.
+**Um ponto importante**: você pode não conhecer todas as ferramentas, ou não fazer todos os passos, porém é muito importante que justifique as suas escolhas e raciocínios para ajudar na nossa avaliação.
 
 Em caso de dúvidas, não hesite em entrar em contato conosco! :)
