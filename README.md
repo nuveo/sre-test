@@ -21,11 +21,14 @@
 
 ## Entrega
 
-Faça o clone deste projeto e realize o push em um repositório privado no [Gitlab](https://about.gitlab.com/), [Bitbucket](https://bitbucket.org/) ou [Github](https://github.com/), e nos dê acesso para que o código seja verificado e também deverá constar no README todos os procedimentos realizados por você para o teste. Favor dar acesso aos seguintes emails:
+Faça o clone deste projeto e realize o push em um repositório privado no [Github](https://github.com/), e nos dê acesso para que o código seja verificado. Por favor, lembre-se também de adicionar um documento README que descreve todos os procedimentos realizados por você para o teste. Quanto mais detalhes, melhor!
 
-- pery.lemke@nuveo.ai
-- matheus.almeida@nuveo.ai
+Os acessos ao repositório podem ser direcionado para os seguintes emails:
 
-Um ponto importante, você pode não conhecer todas as ferramentas, ou não fazer todos os passos, somente justifique as escolhas para nossa avaliação.
+- antonio.filho@nuveo.ai
+- francilio.araujo@nuveo.ai
+- gilson.oliveira@nuveo.ai
+
+Um ponto importante: você pode não conhecer todas as ferramentas, ou não fazer todos os passos, porém é muito importante que justifique as suas escolhas e raciocínios para ajudar na nossa avaliação.
 
 Em caso de dúvidas, não hesite em entrar em contato conosco! :)
