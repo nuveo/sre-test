@@ -8,7 +8,7 @@ _**Dica 1:**_ _Gostamos muito da descrição da solução de forma bem detalhada
 
 _**Dica 2:**_ _Se você quiser reescrever a API e/ou arquitetura, fique à vontade, porém explique em detalhes a justificativa e qual o raciocínio aplicado._
 
-_**Dica 3:**_  _Pontos de conhecimento avançado pode ser apresentados tanto em forma de código ou de forma demonstrativa, fazendo uma explicação do raciocínio. Aplique o que achar mais relevante para cada caso._
+_**Dica 3:**_  _Pontos de conhecimento avançado podem ser apresentados tanto em forma de código ou de forma demonstrativa, fazendo uma explicação do raciocínio. Aplique o que achar mais relevante para cada caso._
 
 ## Entrega básica
  - Criar o EKS e um repositório no ECR;
